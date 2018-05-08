@@ -1,0 +1,8 @@
+Trả lời câu 6:
+Em chọn đáp án B. Tạo một hệ thống mới cho admin. Hệ thống mới này chia sẻ thông tin với hệ thống hiện tại thông qua Web Service API.
+
+Giải thích: 
+	- Vì việc tạo 1 hệ thống mới cho admin chỉ với các chức năng xem thông tin người dùng, xem các file họ đã upload tốn ít chi phí và có thể xử lý nhanh
+	- Đảm bảo tính an toàn cho hệ thống hiện tại vì khi 1 đội code mới join vào code sẽ làm lộ code, lộ những module không muốn public, có thể ảnh hưởng đến hệ thống hiện tại, ...
+	- Việc giao tiếp giữa 2 bên sử dụng API thì rất đơn giản, linh hoạt, tiện dụng, dễ sử dụng, ...
+	- Nếu có một phương pháp tối ưu hơn API thì sẽ mất thời gian để 2 bên thống nhất, trao đổi cách làm việc, làm quen với phương pháp đó, ..
